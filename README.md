@@ -9,4 +9,7 @@ vincent[at]cteq.eu
 
 
 ## Anaconda Navigator Installatie
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Onv9nhPIBp0" frameborder="0" allowfullscreen> </iframe>
+https://www.slideshare.net/fpgabe/installation-anaconda-navigator-for-python-workshop/ 
+
+## Workshop Presentation
+https://www.slideshare.net/fpgabe/workshop-introductie-tot-python/ 
